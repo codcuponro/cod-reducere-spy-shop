@@ -1,6 +1,6 @@
 # Cod Reducere Spy Shop
 
-O colecție de coduri de reducere Spy Shop. Le folosim pentru testarea cuvintelor cheie cod reducere Spy Shop, voucher Spy Shop, cupon Spy Shop, și cod promotional Spy Shop de pe Cuponescu.ro.
+O colecție de coduri de reducere Spy Shop. Le folosim pentru testarea cuvintelor cheie [cod reducere Spy Shop](https://cuponescu.ro/magazin/spy-shop), [voucher Spy Shop](https://cuponescu.ro/magazin/spy-shop), [cupon Spy Shop](https://cuponescu.ro/magazin/spy-shop), și [cod promotional Spy Shop](https://cuponescu.ro/magazin/spy-shop) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-spy-shop a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
